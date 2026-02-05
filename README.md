@@ -96,8 +96,8 @@ This project demonstrates how to create an Auto Scaling Group (ASG) using an AMI
 - A new instance will be automatically launched to maintain desired capacity
  ### ✅ This confirms Auto Scaling is working correctly.
 ---
+  
   ## 👨‍💻 Author
-
 **Kumlesh Kurre**
 💼 IT Support & Network Engineer
 
